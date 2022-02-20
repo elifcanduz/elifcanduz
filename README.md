@@ -1,5 +1,5 @@
 
-<img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg" 
+<img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg" alt="centered image"
      width="800" 
      height="500" />
 
