@@ -1,8 +1,6 @@
-
-<img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg" 
-     width="462"
-     height="300"
-   />
+<div>
+    <img class="marginauto" src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg"  width="462"  height="300" alt="centered image" />
+</div>
 
 <h1 align="center">Hi 👋,   I'm Elif Canduz</h1>
 <h3 align="center">a Data Analyst an ethusiastic Data Science Learner   📗📙</h3>
