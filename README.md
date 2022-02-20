@@ -11,7 +11,7 @@ I'm 43.  A data analyst and an enthusiastic data science learner 📚. An indust
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"  height="150"> 
 </div>
 
-- 🌱 I’m currently learning **Explatory data Analysis**
+- 🌱 I’m currently learning **Explatory Data Analysis**
 
 - 💬 Ask me about **Python, Tableau, Pandas, Numpy, Matplotlib, Pyplot, Agile, SDLC,  Statistics, Domain of production environments**
 
