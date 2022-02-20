@@ -8,7 +8,7 @@
 I'm 43. An industrial engineer with deep domain knowledge of production environments. Mother of a 3-legged cat 😸. A data analyst and an enthusiastic data science learner. 📚
 
 <div id="header" align="center">
-  <img src=https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif>
+  <img src=https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif> width="40"  height="40"
 </div>
 
 - 🌱 I’m currently learning **Explatory data Analysis**
