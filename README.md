@@ -1,5 +1,5 @@
 
-
+<img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg>
 
 <h1 align="center">Hi 👋,   I'm Elif Canduz</h1>
 <h3 align="center">I'm a Data Analyst,  an ethusiastic Data Science Learner   📗📙</h3>
