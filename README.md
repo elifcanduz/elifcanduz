@@ -13,7 +13,7 @@ I'm 43.  A data analyst and an enthusiastic data science learner 📚. An indust
 
 - 🌱 I’m currently learning **Explatory data Analysis**
 
-- 💬 Ask me about **Python, Tableau, Pandas, Numpy, Matplotlib, Pyplot,HTML, CSS, Agile, Waterfall, SDLC, Linux, Statisticsproduction environments domain,**
+- 💬 Ask me about **Python, Tableau, Pandas, Numpy, Matplotlib, Pyplot, Agile, SDLC,  Statistics, Domain of production environments**
 
 - 📫 How to reach me **canduz.elif@gmail.com**
 
