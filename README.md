@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg" width="462"  height="300" >
 </div>
-<h1 align="center">Hi 👋,   I'm Elif Canduz</h1>
+<h1 align="center">Hi,   I'm Elif C.</h1>
 <h3 align="center">a Data Analyst, an ethusiastic Data Science Learner </h3>
 
 <p align="justify"> I'm a someone on the way 🚶‍♀️. The way of loving and feeling mercy for everyone and everything 🌷 The way of feeling hate to only the hate itself. The way of reading the universe and beyond.🌌🌴🦢 I've chosen datascience to help me on my purpose... 
