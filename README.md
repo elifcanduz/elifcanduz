@@ -2,7 +2,7 @@
 <img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg" width="462"  height="300" >
 </div>
 <h1 align="center">Hi,   I'm Elif C.</h1>
-<h3 align="center">a Data Analyst, an ethusiastic Data Science Learner </h3>
+<h3 align="center" style="font-family: Arial">a Data Analyst, an ethusiastic Data Science Learner </h3>
 
 <p align="justify"> I'm a someone on the way 🚶‍♀️. The way of loving and feeling mercy for everyone and everything 🌷 The way of feeling hate to only the hate itself. The way of reading the universe and beyond.🌌🌴🦢 I'm learning datascience to help me on my purpose... 
 I'm 43.  A data analyst and an enthusiastic data science learner 📚. An industrial engineer with deep domain knowledge of production environments.  And mother of a 3-legged cat 😸. 
