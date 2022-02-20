@@ -1,5 +1,7 @@
 
 <img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg" 
+     width="462"
+     height="300"
    />
 
 <h1 align="center">Hi 👋,   I'm Elif Canduz</h1>
