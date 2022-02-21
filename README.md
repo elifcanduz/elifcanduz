@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="11860449" data-share-method="host" data-aspect-ratio="1.81818" data-width="100%"><a href="https://tenor.com/view/hand-waving-hi-wavehi-gif-11860449">Hand Waving GIF</a>from <a href="https://tenor.com/search/hand-gifs">Hand GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <div id="header" align="center">
 <img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg" width="231"  height="150" >
