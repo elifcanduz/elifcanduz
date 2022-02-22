@@ -15,9 +15,9 @@ I'm a data analyst and an enthusiastic data science learner 📚. An industrial 
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"  height="150"> 
 </div>
 
-- 📚📚 I’m currently learning **Explatory Data Analysis**
+- 👩🏻‍🎓 I’m currently learning **Explatory Data Analysis**
 
-- 💬💬 Ask me about **Python,  Pandas, Numpy, Matplotlib, Pyplot, Tableau, Domain of production environments**
+- ❓ Ask me about **Python,  Pandas, Numpy, Matplotlib, Pyplot, Tableau, Domain of production environments**
 
 - 📫📫 How to reach me **canduz.elif@gmail.com**
 
