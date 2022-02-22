@@ -21,6 +21,10 @@ I'm a data analyst and an enthusiastic data science learner 📚. An industrial 
 
 - 📫 How to reach me **canduz.elif@gmail.com**
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
