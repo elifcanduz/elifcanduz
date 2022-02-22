@@ -23,7 +23,7 @@ I'm a data analyst and an enthusiastic data science learner 📚. An industrial 
 
 
 
-<h3 align="left">Connect with me:</h3>
+
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://komarev.com/ghpvc/elifcanduz=elifcanduz&style=flat-square&color=blue" alt=""/>
