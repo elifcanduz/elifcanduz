@@ -9,17 +9,17 @@
 <h3 align="center" style="font-family: Comic Sans MS">a Data Analyst, an ethusiastic Data Science Learner </h3>
 
 <p align="justify"> I'm a someone on the way 🚶‍♀️.The way of reading the universe.🌌🌴🦢 I'm learning datascience to help me on my purpose... 
-I'm a data analyst and an enthusiastic data science learner 📚. An industrial engineer with deep domain knowledge of production environments.  And mother of a 3-legged cat 😸. 
+I'm a data analyst and an enthusiastic data science learner 📚. An industrial engineer of with deep domain knowledge of production environments.  And mother of a 3-legged cat 😸. 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"  height="150"> 
 </div>
 
-- 👩🏻‍🎓 I’m currently learning **Explatory Data Analysis**
+- 💦 I’m currently learning **EXPLORATORY DATA ANALYSIS**
 
-- ❓ Ask me about **Python,  Pandas, Numpy, Matplotlib, Pyplot, Tableau, Domain of production environments**
+- ✔️ ASK ME ABOUT:  **Python,  Pandas, Numpy, Matplotlib, Pyplot, Tableau, Domain of production environments**
 
-- 📫📫 How to reach me **canduz.elif@gmail.com**
+- 🐬  REACH ME: **canduz.elif@gmail.com**
 
 
 
@@ -28,7 +28,7 @@ I'm a data analyst and an enthusiastic data science learner 📚. An industrial 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://komarev.com/ghpvc/elifcanduz=elifcanduz&style=flat-square&color=blue" alt=""/>
 </div>
-- 📫📫 How to reach me **canduz.elif@gmail.com**
+
 <p align="left">
 </p>
 <p>&nbsp</p>
