@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-<img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg" width="300"  height="195" >
+<img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg" width="390"  height="253" >
 </div>
 
 
