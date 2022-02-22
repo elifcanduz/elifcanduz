@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center">Hi,   I'm Elif C.</h1>
+<h1 align="center">Hello,   I'm Elif C.</h1>
 <h3 align="center" style="font-family: Comic Sans MS">a Data Analyst, an ethusiastic Data Science Learner </h3>
 
 <p align="justify"> I'm a someone on the way 🚶‍♀️.The way of reading the universe and beyond.🌌🌴🦢 I'm learning datascience to help me on my purpose... 
