@@ -27,6 +27,8 @@ I’m currently learning **EXPLORATORY DATA ANALYSIS from TECHPROED https://gith
   <a href="https://www.linkedin.com/in/elif-cand%C3%BCz-90594114b/?originalSubdomain=tr">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://komarev.com/ghpvc/elifcanduz=elifcanduz&style=flat-square&color=blue" alt=""/>
+    <h3 align="left"> canduz.elif@gmail.com</h3>
+
   </a>
 </div>
 
