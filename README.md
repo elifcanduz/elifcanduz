@@ -30,7 +30,7 @@ I'm a data analyst and an enthusiastic data science learner 📚. An industrial 
   </a>
 </div>
 <h3 align="left">Email me:</h3>
-- **EXPLORATORY DATA ANALYSIS**
+-canduz.elif@gmail.com
 
 
 <p align="left">
