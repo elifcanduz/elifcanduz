@@ -16,7 +16,7 @@ I'm a data analyst and an enthusiastic data science learner. An industrial engin
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"  height="150"> 
 </div>
 
-- 💦 I’m currently learning **EXPLORATORY DATA ANALYSIS from https://github.com/techproeducationgit 
+- 💦 I’m currently learning **EXPLORATORY DATA ANALYSIS from TECHPROED https://github.com/techproeducationgit 
 
 
 
