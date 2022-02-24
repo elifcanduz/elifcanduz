@@ -1,8 +1,6 @@
 
 
-<div id="header" align="center">
-<img src=https://tenor.com/view/hand-waving-hi-wavehi-gif-11860449 width="600"  height="390" >
-</div>
+
 
 <div id="header" align="center">
 <img src="https://github.com/elifcanduz/elifcanduz/blob/main/hand-g2dde92fbf_1920.jpg" width="600"  height="390" >
