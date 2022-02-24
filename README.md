@@ -10,7 +10,7 @@
 <h3 align="center" style="font-family: Comic Sans MS">a Data Analyst, an ethusiastic Data Science Learner </h3>
 
 <p align="justify"> I'm a someone on the way 🚶‍♀️.The way of reading the universe I'm learning datascience to help me on my purpose... 
-I'm a data analyst and an enthusiastic data science learner 📚. An industrial engineer of 20 years with deep domain knowledge of production environments.  And mother of a 3-legged cat 😸. 
+I'm a data analyst and an enthusiastic data science learner. An industrial engineer of 20 years with deep domain knowledge of production environments.  And mother of a 3-legged cat 😸. 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"  height="150"> 
