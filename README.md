@@ -34,6 +34,7 @@ I'm a data analyst and an enthusiastic data science learner 📚. An industrial 
 
 <h3 align="left"> canduz.elif@gmail.com</h3>
 
+https://github.com/techproeducationgit
 
 <p align="left">
 </p>
