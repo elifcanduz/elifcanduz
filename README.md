@@ -29,6 +29,8 @@ I'm a data analyst and an enthusiastic data science learner 📚. An industrial 
   <img src="https://komarev.com/ghpvc/elifcanduz=elifcanduz&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
+
+
 <h3 align="left">Email me:   canduz.elif@gmail.com</h3>
 
 
