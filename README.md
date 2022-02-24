@@ -22,7 +22,7 @@ I'm a data analyst and an enthusiastic data science learner 📚. An industrial 
 
 
 
-<h3 align="left">💦 Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/elif-cand%C3%BCz-90594114b/?originalSubdomain=tr">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,7 +31,7 @@ I'm a data analyst and an enthusiastic data science learner 📚. An industrial 
 </div>
 
 
-<h3 align="left"> 💦 Email me:   canduz.elif@gmail.com</h3>
+<h3 align="left"> Email me:   canduz.elif@gmail.com</h3>
 
 
 <p align="left">
