@@ -33,7 +33,7 @@ I’m currently learning **EXPLORATORY DATA ANALYSIS from TECHPROED https://gith
 </div>
 
 
-<h3 align="left"> canduz.elif@gmail.com</h3>
+
 
 
 
