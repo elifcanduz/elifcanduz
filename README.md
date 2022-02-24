@@ -16,14 +16,14 @@ I'm a data analyst and an enthusiastic data science learner. An industrial engin
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"  height="150"> 
 </div>
 
-- 💦 I’m currently learning **EXPLORATORY DATA ANALYSIS**
+- 💦 I’m currently learning **EXPLORATORY DATA ANALYSIS from Techproed https://github.com/techproeducationgit **
 
 - ✔️ ASK ME ABOUT:  **Python,  Pandas, Numpy, Matplotlib, Pyplot, Tableau, Domain of production environments**
 
 
 
 
-<h3 align="left"> Connect with me:</h3>
+<h3 align="left"> Connect with me, feel free to ask </h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/elif-cand%C3%BCz-90594114b/?originalSubdomain=tr">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
